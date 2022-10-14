@@ -33,3 +33,4 @@ spec:
       - name: mysql-volume
         persistentVolumeClaim:
           claimName: mysql-pv-claim
+          
