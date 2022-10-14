@@ -19,4 +19,4 @@ spec:
     app: wordpress
     tier: frontend
   type: LoadBalancer
-  loadBalancerIP: "YOUR.IP.ADDRESS.HERE"
+#   loadBalancerIP: "YOUR.IP.ADDRESS.HERE"
