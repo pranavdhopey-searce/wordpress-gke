@@ -18,5 +18,5 @@ spec:
   selector:
     app: wordpress
     tier: frontend
-  type: LoadBalancer
+  type: ClusterIP ##LoadBalancer
 #   loadBalancerIP: "YOUR.IP.ADDRESS.HERE"
